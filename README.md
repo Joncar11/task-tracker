@@ -24,6 +24,6 @@ Make sure you have the following installed:
 
 1. **Clone the repository or download the ZIP file**:
    ```bash
-   git clone <repository-url>
+   git clone <Joncar11/task-tracker>
    cd task-tracker
 
